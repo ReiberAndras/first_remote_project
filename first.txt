@@ -1,2 +1,3 @@
 Content of first file.
 Modified.
+Master branch modification
